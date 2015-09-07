@@ -4,3 +4,7 @@
 [submodule "panel"]
 	path = panel
 	url = https://github.com/getkirby/panel.git
+[submodule "modules/bootstrap"]
+	path = modules/bootstrap
+	url = https://github.com/twbs/bootstrap.git
+	branch = v4-dev
